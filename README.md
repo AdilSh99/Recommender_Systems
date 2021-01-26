@@ -1,10 +1,10 @@
 # Recommender_Systems
 
-## Binder Badge to start the Binder environment:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GharbiRaouf/Recommender_Systems.git/master)
+## Binder Badge, um die Binder-Umgebung zu starten:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AdilSh99/Recommender_Systems/HEAD)
 
-## How to perform the exercise?
-Click on the Launch Binder button, then a Binder window will open. A docker container with all necessary images will be created automatically. After a successful creation, a Jupyter window will be opened. Open 1-Recommender (Empfehlungs-) Systeme.ipynb and then click on Run All at the top of Cell.
+## Wie wird die Übung durchgeführt?
+Klicken Sie auf die Schaltfläche "Launch Binder", dann wird ein Binder-Fenster geöffnet. Es wird automatisch ein Docker-Container mit allen notwendigen Images erstellt. Nach erfolgreicher Erstellung wird ein Jupyter-Fenster geöffnet. Öffnen Sie 1-Recommender (Empfehlungs-) Systeme.ipynb und klicken Sie dann oben in Cell auf Run All.
 
-## Expected results ?
-In this Project we will create a simple recommendation system using Python and Pandas. In addition, there will be a second notebook Advanced Recommendation Systems with Python by creating a more complex recommendation system for the same data set.
+## Erwartete Ergebnisse ?
+In diesem Projekt werden wir ein einfaches Empfehlungssystem mit Python und Pandas erstellen. Zusätzlich wird es ein zweites Notebook Erweiterte Empfehlungssysteme mit Python geben, indem wir ein komplexeres Empfehlungssystem für den gleichen Datensatz erstellen.
